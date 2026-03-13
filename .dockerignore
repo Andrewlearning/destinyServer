@@ -3,3 +3,5 @@
 .dockerignore
 LICENSE
 *.md
+bin/
+destinyServer
